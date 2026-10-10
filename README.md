@@ -1,10 +1,21 @@
-node_modules/
-dist/
-.env
-.env.*
-!.env.example
-*.local
-.DS_Store
-.vscode/
-.idea/
-*.log
+# Rival Stars Horse Manager
+
+Веб-приложение для управления лошадьми в игре Rival Stars Horse Racing.
+
+## Возможности
+
+- Добавление лошадей вручную и по скриншотам.
+- Сохранение базы лошадей.
+- Рейтинг по характеристикам.
+- Сравнение лошадей.
+- Сортировка по звёздам.
+- Импорт и экспорт данных.
+
+## Технологии
+
+React, TypeScript, Vite.
+
+## Запуск
+
+npm install
+npm run dev
