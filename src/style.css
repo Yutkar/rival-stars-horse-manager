@@ -48,3 +48,5 @@
  .notes textarea{font-size:16px}
  .photoBox .secondary{min-height:48px;width:100%}
 }
+
+.worstPanel{margin-bottom:20px}.worstContent{display:grid;gap:16px}.worstCount{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.worstCount input{width:100px;min-height:48px;padding:8px 12px;border:1px solid #40516b;border-radius:10px;background:#0d1727;color:#fff;font-size:18px}.worstResults{display:grid;gap:10px}.worstHorse{padding:16px;border:1px solid #35445c;border-radius:14px;background:#101c2d;display:grid;gap:12px}.worstHorse>div:first-child{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}.worstHorse span,.worstNote{color:#a9b9cc}.worstPositions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.worstPositions>div{background:#1b2b40;padding:10px 6px;border-radius:8px;text-align:center;display:grid;gap:4px}.worstPositions small{color:#a9b9cc}.worstPositions b{font-size:14px}.worstContent>p{margin:0;color:#a9b9cc}@media(max-width:480px){.worstPositions b{font-size:12px}.worstPositions small{font-size:12px}}
